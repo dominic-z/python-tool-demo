@@ -1,7 +1,7 @@
 
  # 本人的补充说明
-  
-[git地址](git@github.com:jiangnanboy/learning_to_rank.git)
+该demo来自于下面工程，本人拷贝过来进行实验验证
+[git地址](https://github.com/jiangnanboy/learning_to_rank)
 
 [数据集介绍](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/#!letor-4-0)
 数据集来自LETOR4，每一行代表一个(query,doc)的pair的特征，label数字越高，代表相关性越高，排序应该在前面。
