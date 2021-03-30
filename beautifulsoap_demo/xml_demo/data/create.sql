@@ -1,5 +1,4 @@
 use ndmp;
-drop table rulelab_hierarchical_area;
 create table if not exists rulelab_hierarchical_area
 (
 	id bigint(20) not null auto_increment,
