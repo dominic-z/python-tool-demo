@@ -1,1 +1,17 @@
 /**/.idea
+/target/
+/**/target/*
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+/nbproject/
+
+**/target
+**/*.DS_Store
+*.prefs
+.project
+*.log
+
