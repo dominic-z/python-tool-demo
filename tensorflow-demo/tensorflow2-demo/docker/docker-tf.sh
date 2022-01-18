@@ -1,0 +1,1 @@
+docker run -it --rm --name tfJupyterRM -p 8888:8888 tensorflow/tensorflow:latest-jupyter

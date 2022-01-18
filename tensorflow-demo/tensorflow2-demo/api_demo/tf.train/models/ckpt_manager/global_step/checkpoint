@@ -1,0 +1,6 @@
+model_checkpoint_path: "custom_name-5"
+all_model_checkpoint_paths: "custom_name-3"
+all_model_checkpoint_paths: "custom_name-5"
+all_model_checkpoint_timestamps: 1604389902.9365451
+all_model_checkpoint_timestamps: 1604389902.940671
+last_preserved_timestamp: 1604389901.922615

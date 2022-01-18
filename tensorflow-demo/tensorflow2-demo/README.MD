@@ -1,0 +1,3 @@
+# Tensorflow 2.3官网教程demo
+用的tensorflow docker配合jupyter进行试验
+包括官方教程以及各种api的使用demo
