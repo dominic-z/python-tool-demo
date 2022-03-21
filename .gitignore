@@ -10,7 +10,7 @@
 /nbproject/
 
 **/target
-**/*.DS_Store
+**/.DS_Store
 *.prefs
 .project
 *.log
